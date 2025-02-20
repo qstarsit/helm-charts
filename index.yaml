@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  qherde:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-02-20T19:51:43.584661647Z"
+    description: A Helm chart for the QHerde demo app.
+    digest: 87b701a6b411802698a0ef0e450194b37514ae8ff72d0ed6495c6a9ea2ef72ec
+    name: qherde
+    type: application
+    urls:
+    - https://github.com/qstarsit/helm-charts/releases/download/qherde-0.2.0/qherde-0.2.0.tgz
+    version: 0.2.0
+generated: "2025-02-20T19:51:43.584667598Z"
